@@ -3,7 +3,7 @@ import {car} from "./vehicles.js";
 import {minibus} from "./vehicles.js";
 import {bus} from "./vehicles.js";
 
-const daily_passed = JSON.parse(localStorage.getItem('passed_vehicles'));
+const daily_passed = JSON.parse(localStorage.getItem('passed_vehicles')) || [];
 
 export class counter {
 
