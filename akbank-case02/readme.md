@@ -25,5 +25,3 @@
 **Elde edilen günlük bakiyeyi ögrenmek için dailyTotalEarning() fonksiyonuna kazancını öğrenmek istediğimiz tarihi veriyoruz**<br>
 ![](ss7.PNG)<br>
 ![](ss8.PNG)
-
-
